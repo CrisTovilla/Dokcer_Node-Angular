@@ -1,0 +1,23 @@
+##node
+
+node_modules
+
+npm-debug.log
+
+package-lock.json
+
+
+##angular
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+angular-test/dist
+angular-test/tmp
+angular-test/out-tsc
+
+# dependencies
+angular-test/node_modules
+angular-test/package-lock.json
+
+
+

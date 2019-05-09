@@ -1,0 +1,43 @@
+##node
+
+node_modules
+
+npm-debug.log
+
+package-lock.json
+
+.git
+.gitignore
+##angular
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+angular-test/dist
+angular-test/tmp
+angular-test/out-tsc
+
+# dependencies
+angular-test/node_modules
+angular-test/package-lock.json
+
+# IDE - VSCode
+angular-test/.vscode/*
+angular-test/!.vscode/settings.json
+angular-test/!.vscode/tasks.json
+angular-test/!.vscode/launch.json
+angular-test/!.vscode/extensions.json
+
+# misc
+angular-test/.sass-cache
+angular-test/connect.lock
+angular-test/coverage
+angular-test/libpeerconnection.log
+angular-test/npm-debug.log
+angular-test/yarn-error.log
+angular-test/testem.log
+angular-test/typings
+
+# System Files
+angular-test/.DS_Store
+angular-test/Thumbs.db
+
